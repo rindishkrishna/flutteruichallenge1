@@ -1,6 +1,6 @@
 # flutteruichallenge1
 
-Trying to design iBlood App from project 365 website https://project365.design
+Trying to design iBlood App from project 365 design https://project365.design
 
 ## Getting Started
 
